@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80eddb15-eaf9-4fb6-ad9c-b94fbc3e9e4c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turingMachine/turingMachinev2/src/main/java/g56583/esi/atl/view/fx/GameView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../turingMachine/turingMachinev2/src/main/java/g56583/esi/atl/view/fx/GameView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../turingMachine/turingMachinev2/target/classes/g56583/esi/atl/view/fx/GameView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../turingMachine/turingMachinev2/target/classes/g56583/esi/atl/view/fx/GameView.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Xd1v5RIc0UqwWfEsyEUVDofVZc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/HE2B/2eme HE2B/q3/ATLG3/56583/asciipaint&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="g56583.atl.ascii.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g56583.atl.ascii.controller.Application" />
+      <module name="asciipaint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g56583.atl.ascii.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsciiPaintTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asciipaint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g56583.atl.ascii.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g56583.atl.ascii.model" />
+      <option name="MAIN_CLASS_NAME" value="g56583.atl.ascii.model.AsciiPaintTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsciiPaintTest.testGetGroup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asciipaint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g56583.atl.ascii.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g56583.atl.ascii.model" />
+      <option name="MAIN_CLASS_NAME" value="g56583.atl.ascii.model.AsciiPaintTest" />
+      <option name="METHOD_NAME" value="testGetGroup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsciiPaintTest.testUngroupShapeWithInvalidIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asciipaint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g56583.atl.ascii.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g56583.atl.ascii.model" />
+      <option name="MAIN_CLASS_NAME" value="g56583.atl.ascii.model.AsciiPaintTest" />
+      <option name="METHOD_NAME" value="testUngroupShapeWithInvalidIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="g56583.atl.ascii.model in asciipaint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="asciipaint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g56583.atl.ascii.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="g56583.atl.ascii.model" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.AsciiPaintTest.testGetGroup" />
+        <item itemvalue="JUnit.AsciiPaintTest" />
+        <item itemvalue="JUnit.g56583.atl.ascii.model in asciipaint" />
+        <item itemvalue="JUnit.AsciiPaintTest.testUngroupShapeWithInvalidIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80eddb15-eaf9-4fb6-ad9c-b94fbc3e9e4c" name="Changes" comment="" />
+      <created>1698944370118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698944370118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/asciipaint$SquareTest.ic" NAME="SquareTest Coverage Results" MODIFIED="1700249927065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g56583.atl.ascii.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/asciipaint$g56583_atl_ascii_model_in_asciipaint.ic" NAME="g56583.atl.ascii.model in asciipaint Coverage Results" MODIFIED="1700259075031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g56583.atl.ascii.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/asciipaint$AsciiPaintTest.ic" NAME="AsciiPaintTest Coverage Results" MODIFIED="1700259415724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g56583.atl.ascii.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/asciipaint$DrawingTest.ic" NAME="DrawingTest Coverage Results" MODIFIED="1700251204891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>g56583.atl.ascii.model.*</FILTER>
+    </SUITE>
+  </component>
+</project>
